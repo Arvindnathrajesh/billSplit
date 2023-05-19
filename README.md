@@ -7,7 +7,7 @@
 
 ## Description
 
-<b><em><u>FlytBase Assignment</u> :</b></em>
+<b><em><u>Lyric Assignment</u> :</b></em>
 
 This Application is built on NestJS framework and MongoDB database. 
 
