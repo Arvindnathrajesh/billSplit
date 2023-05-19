@@ -4,7 +4,7 @@ const mongoose = require('mongoose'),
   autoIncrement = require('mongoose-auto-increment');
 
 const connection = mongoose.createConnection(
-  'mongodb+srv://ArvindNath:pass%40123@cluster0.9tist.mongodb.net/flytBase?retryWrites=true&w=majority',
+  'mongodb://mongo:27017/bill-split',
 );
 
 export const UserSchema = new Schema(
